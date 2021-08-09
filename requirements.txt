@@ -1,0 +1,3 @@
+yfinance>=0.1.63
+yahoo-fin>=0.8.9.1
+matplotlib>=3.4.2
